@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "FEVER",
+  "base_artist": "ENHYPEN",
+  "createdAt": "2026-01-06T15:09:20.847402Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "fever dream",
+      "artist": "mxmtoon",
+      "has_synced": true,
+      "path": "select/01_fever_dream_mxmtoon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Friday Night Fever",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_Friday_Night_Fever_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Friday Night Fever (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_Friday_Night_Fever_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Fever",
+      "artist": "Ray Charles",
+      "has_synced": false,
+      "path": "select/04_The_Fever_Ray_Charles.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hillbilly Fever",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": false,
+      "path": "select/05_Hillbilly_Fever_Little_Jimmy_Dickens.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hillbilly Fever (Album Version)",
+      "artist": "Little Jimmy Dickens",
+      "has_synced": false,
+      "path": "select/06_Hillbilly_Fever_(Album_Version)_Little_Jimmy_Dickens.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Get The Fever",
+      "artist": "Bill Anderson",
+      "has_synced": true,
+      "path": "select/07_I_Get_The_Fever_Bill_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ramblin' Fever",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/08_Ramblin'_Fever_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Summer Fever",
+      "artist": "Little Big Town",
+      "has_synced": true,
+      "path": "select/09_Summer_Fever_Little_Big_Town.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Teenage Fever",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/10_Teenage_Fever_Drake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fever Dream",
+      "artist": "Iron & Wine",
+      "has_synced": false,
+      "path": "select/11_Fever_Dream_Iron_&_Wine.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fever (feat. Lukas Graham)",
+      "artist": "Kygo feat. Lukas Graham",
+      "has_synced": true,
+      "path": "select/12_Fever_(feat._Lukas_Graham)_Kygo_feat._Lukas_Graham.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fever",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/13_Fever_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fever",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/14_Fever_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Harpoon Fever (Queequeg's Playhouse)",
+      "artist": "Man Man",
+      "has_synced": false,
+      "path": "select/15_Harpoon_Fever_(Queequeg's_Playhouse)_Man_Man.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fever",
+      "artist": "Neko Case",
+      "has_synced": false,
+      "path": "select/16_Fever_Neko_Case.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fever Dreaming",
+      "artist": "No Age",
+      "has_synced": true,
+      "path": "select/17_Fever_Dreaming_No_Age.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "(I Got) the Fever",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/18_(I_Got)_the_Fever_Oasis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FEVER",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/pl_01_FEVER_ENHYPEN.txt"
+    }
+  ]
+}
